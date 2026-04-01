@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1001,
+    "username": "arquitecto_is",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=admin",
+    "content": "🚀 ¡Bienvenidos al Laboratorio de Git Practice! Este es un post de ejemplo. Los estudiantes deben editar este archivo JSON para agregar sus propias publicaciones y practicar git commit/push. 💻🔥",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop",
+    "time": "Hace 5 minutos",
+    "tags": ["#GitPractice", "#ScreamingArchitecture", "#Bun", "#DevOpsLab"]
+  },
+  {
+    "id": 1002,
+    "username": "estudiante_devops",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=student1",
+    "content": "¡Hola! Estoy practicando Git subiendo este post directamente al archivo JSON. Los nuevos grupos deben usar IDs únicos (ej: 1003, 1004, etc) para evitar conflictos. 🛠️",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop",
+    "time": "Hace 2 minutos",
+    "tags": ["#DevOps", "#Nextjs", "#GitFlow", "#Practice"]
+  },
+  {
+    "id": 1003,
+    "username": "Joel_Fernando",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=neida",
+    "content": "¡Hola! Soy Joel del grupo Sigma_developers. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop",
+    "time": "Hace 1 minuto",
+    "tags": ["#SigmaDevelopers", "#GitPractice", "#DevOps", "#Learning"]
+  },
+  {
+    "id": 1021,
+    "username": "teamCebollitas_MelodyGutierrez",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=neida",
+    "content": "¡Hola! Soy Melody del grupo TeamCebollitas. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop",
+    "time": "Hace 1 minuto",
+    "tags": ["#TeamCebollitas", "#GitPractice", "#DevOps", "#Learning"]
+  },
+  {
+    "id": 1022,
+    "username": "teamCebollitas_RodrigoQuispeVargas",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=neida",
+    "content": "¡Hola! Soy Rodrigo Quispe Vargas del grupo TeamCebollitas. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://worldcampus.saintleo.edu/img/article/estudiar-ingenieria-en-sistemas-cuales-son-los-retos-de-ser-ingenierio-en-sistemas.webp",
+    "time": "Hace 1 minuto",
+    "tags": ["#TeamCebollitas", "#GitPractice", "#DevOps", "#Learning"]
+  },
+  {
+    "id": 1023,
+    "username": "teamCebollitas_VladimirCamachoCabrera",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=cebollita",
+    "content": "¡Hola! Soy Vladimir Camacho Cabrera del grupo TeamCebollitas. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://worldcampus.saintleo.edu/img/article/estudiar-ingenieria-en-sistemas-cuales-son-los-retos-de-ser-ingenierio-en-sistemas.webp",
+    "time": "Hace 1 minuto",
+    "tags": ["#TeamCebollitas", "#GitPractice", "#DevOps", "#Learning"]
+  },
+  {
+    "id": 1024,
+    "username": "teamCebollitas_CarlosMangudo",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=cebollita",
+    "content": "¡Hola! Soy Carlos Mangudo del grupo TeamCebollitas. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://worldcampus.saintleo.edu/img/article/estudiar-ingenieria-en-sistemas-cuales-son-los-retos-de-ser-ingenierio-en-sistemas.webp",
+    "time": "Hace 1 minuto",
+    "tags": ["#TeamCebollitas", "#GitPractice", "#DevOps", "#Learning"]
+  },
+  {
+    "id": 1028,
+    "username": "teamCebollitas_JosePardo",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=cebollita",
+    "content": "¡Hola! Soy Jose Pardo del grupo TeamCebollitas. Estoy aprendiendo Git colaborativo y esta es mi primera contribución 🚀",
+    "image": "https://worldcampus.saintleo.edu/img/article/estudiar-ingenieria-en-sistemas-cuales-son-los-retos-de-ser-ingenierio-en-sistemas.webp",
+    "time": "Hace 1 minuto",
+    "tags": ["#TeamCebollitas", "#GitPractice", "#DevOps", "#Learning"]
+  }
+]
